@@ -14,3 +14,10 @@ EcoZòn est une application mobile inovante qui vise à transformer la gestion d
 - L’agent peut marquer une tâche comme “en cours” ou “terminée”.
 - La mise à jour du statut est visible en temps réel pour les citoyens.
 - L’agent peut filtrer par zone
+### WOULD BE NICE TO HAVE
+- Suivi des interventions
+- Planification automatique des tournées
+- Notifications et rapports de performance
+- Notification envoyée quand le signalement change de statut.
+- L’utilisateur peut activer/désactiver les notifications dans les paramètres.
+
