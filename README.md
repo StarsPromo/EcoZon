@@ -3,6 +3,8 @@
 ## Description 
 EcoZòn est une application mobile inovante qui vise à transformer la gestion des dechets en Haïti à travers la technologie et la participation citoyenne. L’objectif principal du projet est de favoriser un environnement plus propre, plus sain et plus durable en connectant les citoyens, les collecteurs et les autorités locales dans un même ecosystème numérique.
 
+<br>
+<img src="">
 ### User Story
 ### MUST HAVE
 - L’utilisateur doit pouvoir créer un compte ou se connecter. 
